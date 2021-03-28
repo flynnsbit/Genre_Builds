@@ -1,0 +1,5 @@
+@echo off
+IF NOT EXIST C:\pack_ver.txt CALL UPDWARN.BAT
+IF EXIST E:\LAUNCH.BAT CALL LAUNCH.BAT
+IF NOT EXIST E:\LAUNCH.BAT command /c tdl.exe -q
+
