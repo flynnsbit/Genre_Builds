@@ -1,0 +1,1 @@
+any games folder referenced in the Launcher needs to be added here for it to run.

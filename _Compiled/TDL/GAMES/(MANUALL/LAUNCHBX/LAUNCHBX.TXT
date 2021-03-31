@@ -1,0 +1,12 @@
+Doom
+---GENRE---Shooter
+---SERIES---Doom
+---DEVELOPER---Id Software
+---PUBLISHER---Id
+---YEAR---1993
+---STATUS---Good
+---FAVORITE---
+E:
+CD \GAMES\DOOM1993
+CALL 1_START.BAT
+
